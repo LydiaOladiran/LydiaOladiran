@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with breaking down technical concepts
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: https://twitter.com/lydiaoladiran
+-    081
 - 😄 Pronouns: [SHE/HER/HERS]
 - ⚡ Fun fact: I love babies
 -->
