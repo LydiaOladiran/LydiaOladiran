@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 -    081
 - 😄 Pronouns: [SHE/HER/HERS]
 - ⚡ Fun fact: I love babies
--->
