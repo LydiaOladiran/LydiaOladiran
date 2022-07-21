@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my technical skill in data analysis
 - 🌱 I’m currently learning data analysis in the NG30 Days of learning
