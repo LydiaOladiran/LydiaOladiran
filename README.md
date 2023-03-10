@@ -4,7 +4,8 @@
 
 
 - 🔭 I’m currently working on building my technical skill in data analysis
-- 🌱 I’m currently learning data analysis in the NG30 Days of learning
+- 🌱 I clean data using SQL, Excel
+- :relaxed: I visualize data using Excel and PowerBI
 - 👯 I’m looking to collaborate on everything data analysis and projects
 - 🤔 I’m looking for help with breaking down technical concepts
 - 💬 Ask me about my learning journey
